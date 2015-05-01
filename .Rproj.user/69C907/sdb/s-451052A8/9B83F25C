@@ -1,12 +1,12 @@
 {
-    "contents" : "\\name{FRaC-package}\n\\alias{FRaC-package}\n\\alias{FRaC}\n\\docType{package}\n\\title{\nWhat the package does (short line)\n~~ package title ~~\n}\n\\description{\nMore about what it does (maybe more than one line)\n~~ A concise (1-5 lines) description of the package ~~\n}\n\\details{\n\\tabular{ll}{\nPackage: \\tab FRaC\\cr\nType: \\tab Package\\cr\nVersion: \\tab 1.0\\cr\nDate: \\tab 2015-05-01\\cr\nLicense: \\tab What license is it under?\\cr\n}\n}\n\\author{\nWho wrote it\n\nMaintainer: Who to complain to <yourfault@somewhere.net>\n~~ The author and/or maintainer of the package ~~\n}\n\\references{\n~~ K. Noto, C. E. Brodley, and D. Slonim.\nFRaC: A Feature-Modeling Appraoch for Semi-Supervised and Unsupervised Anomaly Detection.\nData Mining and Knowledge Discovery, 25(1), pp.109—133, 2011. ~~\n}\n\\keyword{ package }\n\\seealso{\n~~ Optional links to other man pages, e.g. ~~\n~~ \\code{\\link[<pkg>:<pkg>-package]{<pkg>}} ~~\n}\n\n",
+    "contents" : "\\name{FRaC-package}\n\\alias{FRaC-package}\n\\alias{FRaC}\n\\docType{package}\n\\title{Feature Regression and Classification Anomaly Detection Algorithm\n}\n\\description{\nFRaC is a general approach to the anomaly detection problem that is, the task of identifying instances that come from a different class or distribution than the majority (unsupervised anomaly detection) or a set of verified \"normal\" data (semi-supervised anomaly detection).The key to making this approach work is to precisely quantify the amount of evidence provided by each observation. To this end, FRaC developes a novel, information-theoretic anomaly measure that combines the contributions of all feature models.\n}\n\\details{\n\\tabular{ll}{\nPackage: \\tab FRaC\\cr\nType: \\tab Package\\cr\nVersion: \\tab 0.0.1\\cr\nDate: \\tab 2015-05-01\\cr\nLicense: \\tab GPL 3.0\\cr\n}\n}\n\\author{\nWho wrote it\n\nMaintainer: Who to complain to <yourfault@somewhere.net>\n~~ The author and/or maintainer of the package ~~\n}\n\\references{\nK. Noto, C. E. Brodley, and D. Slonim.\nFRaC: A Feature-Modeling Appraoch for Semi-Supervised and Unsupervised Anomaly Detection.\nData Mining and Knowledge Discovery, 25(1), pp.109—133, 2011.\n}\n\\keyword{ package }\n\n\n",
     "created" : 1430519995159.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3784071828",
+    "hash" : "1717794826",
     "id" : "9B83F25C",
-    "lastKnownWriteTime" : 1430520351,
+    "lastKnownWriteTime" : 1430522073,
     "path" : "C:/Users/brond_000/Documents/R/FRaC/man/FRaC-package.Rd",
     "project_path" : "man/FRaC-package.Rd",
     "properties" : {
