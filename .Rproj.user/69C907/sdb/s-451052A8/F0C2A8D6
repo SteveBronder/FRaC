@@ -1,0 +1,16 @@
+{
+    "contents" : "exportPattern(\"^[[:alpha:]]+\")\nimportFrom(\"caret\")\nimportFrom(\"reshape2\")",
+    "created" : 1430518606776.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3245874568",
+    "id" : "F0C2A8D6",
+    "lastKnownWriteTime" : 1430520306,
+    "path" : "C:/Users/brond_000/Documents/R/FRaC/NAMESPACE",
+    "project_path" : "NAMESPACE",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_namespace"
+}

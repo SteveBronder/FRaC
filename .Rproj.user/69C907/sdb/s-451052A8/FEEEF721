@@ -1,0 +1,16 @@
+{
+    "contents" : "^.*\\.Rproj$\n^\\.Rproj\\.user$\n",
+    "created" : 1430520976715.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2708567950",
+    "id" : "FEEEF721",
+    "lastKnownWriteTime" : 1430518427,
+    "path" : "C:/Users/brond_000/Documents/R/FRaC/.Rbuildignore",
+    "project_path" : ".Rbuildignore",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "text"
+}

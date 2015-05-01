@@ -1,0 +1,16 @@
+{
+    "contents" : "Package: FRaC\nType: Package\nTitle: Anomaly Detection\nVersion: 0.0.1\nDate: 2015-05-01\nAuthor: Steve Bronder\nMaintainer: <sbronder@stevebronder.com>\nDescription: FRaC is a general approach to the anomaly detection problem that\n    is, the task of identifying instances that come from a different class or\n    distribution than the majority (unsupervised anomaly detection) or a set of\n    verified \"normal\" data (semi-supervised anomaly detection).The key to\n    making this approach work is to precisely quantify the amount of evidence\n    provided by each observation. To this end, FRaC developes a novel,\n    information-theoretic anomaly measure that combines the contributions of\n    all feature models.\nLicense: GNU 3.0\nImports:\n    caret,\n    reshape2\n",
+    "created" : 1430518610841.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1114054822",
+    "id" : "9F4E2B83",
+    "lastKnownWriteTime" : 1430520343,
+    "path" : "C:/Users/brond_000/Documents/R/FRaC/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "dcf"
+}
